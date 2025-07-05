@@ -40,6 +40,7 @@ IR metric:
 |   0.2    |    0.146  |   0.725   |
 
 ![alt text](images/image-2.png)
+![alt text](images/image-10.png)
 
 ## Face keypoints detection model
 Здесь простая модель resnet50, обученная на датасете helen на поиск ключевых точек глаз(всего 12 точек).
